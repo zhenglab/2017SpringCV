@@ -1,0 +1,11 @@
+Description:
+The zip file contains all codes of Assignment 1 for image segmentation and evaluation.
+
+Operating Environment:
+1. System environment: Mac OS X 10.11 EI Captian
+2. IDE: MATLAB R2015b and Xcode 8.2.1
+
+Installation Notes:
+1) Unzip the files.
+2) You need to follow the README files on Normalized cut and gPb-owt-ucm for compilation instructions. (The code is based Mixed-Language Programming Language)
+3) After you got all segmentation results, change the input file path of evaluation code according to different segmentation results paths.

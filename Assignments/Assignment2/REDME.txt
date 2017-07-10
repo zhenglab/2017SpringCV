@@ -1,0 +1,17 @@
+
+Description:
+
+The tar file contains all codes and results of Assignment 2 for image enhancement and restoration.
+
+
+Operating Environment:
+
+1.System environment: Windows 7 or Ubuntu 16.04 system.
+
+2.IDE: MATLAB R2012a/R2015b
+
+Special Reminder:
+
+1.The whole dataset is too big to upload on github. As a result, there are just a part of processed images stored in cv_dataset. The original images obtained by do convolutions on 15 clear images and the first blur kernel image. The processed images are obtained by processing the original images with ten methods.
+
+2.You can obtain the whole dataset from the original images by the provided codes. The following three codes need to change the size of the estimated blur kernel: L0 Sparse Representation, L0-Regularized and Dark Channel Prior.
